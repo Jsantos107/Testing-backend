@@ -9,3 +9,4 @@ Test.destroy_all
 
 Test.create({stuff:"Childish Gambino", number: 7})
 Test.create({stuff:"Beau Moreno", number: 27})
+Test.create({stuff:"Chance The Rapper", number: 3})
